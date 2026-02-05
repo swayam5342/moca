@@ -40,4 +40,5 @@ vendor/
 *.a
 
 # Debug files
-__debug_bin
+
+*.pdf
